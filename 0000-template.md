@@ -76,20 +76,22 @@ Please also take into consideration that rust sometimes intentionally diverges f
 # Future possibilities
 [future-possibilities]: #future-possibilities
 
-Think about what the natural extension and evolution of your proposal would
-be and how it would affect the language and project as a whole in a holistic
-way. Try to use this section as a tool to more fully consider all possible
-interactions with the project and language in your proposal.
-Also consider how this all fits into the roadmap for the project
-and of the relevant sub-team.
+Piense en cuál sería la extensión y evolución natural de su propuesta
+y cómo afectaría a la lengua y al proyecto en su conjunto de forma holística.
+de forma holística. Intente utilizar esta sección como una herramienta para considerar de forma más completa todas las posibles
+interacciones con el proyecto y la lengua en su propuesta.
+Considere también cómo encaja todo esto en la hoja de ruta del proyecto
+y del sub-equipo correspondiente.
 
-This is also a good place to "dump ideas", if they are out of scope for the
-RFC you are writing but otherwise related.
+Este es también un buen lugar para "volcar ideas", si están fuera del alcance de la
+RFC que está escribiendo pero que están relacionadas.
 
-If you have tried and cannot think of any future possibilities,
-you may simply state that you cannot think of anything.
+Si lo ha intentado y no se le ocurre ninguna posibilidad futura
+puede decir simplemente que no se le ocurre nada.
 
-Note that having something written down in the future-possibilities section
-is not a reason to accept the current or a future RFC; such notes should be
-in the section on motivation or rationale in this or subsequent RFCs.
-The section merely provides additional information.
+Tenga en cuenta que tener algo escrito en la sección de posibilidades futuras
+no es una razón para aceptar el RFC actual o uno futuro; tales notas deben estar
+en la sección de motivación o justificación de esta RFC o de las siguientes.
+La sección simplemente proporciona información adicional.
+
+Traducción realizada con la versión gratuita del traductor www.DeepL.com/Translator
