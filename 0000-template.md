@@ -40,25 +40,25 @@ The section should return to the examples given in the previous section, and exp
 # Drawbacks
 [drawbacks]: #drawbacks
 
-Why should we *not* do this?
+¿Por qué *no* deberíamos hacerlo?
 
 # Rationale and alternatives
 [rationale-and-alternatives]: #rationale-and-alternatives
 
-- Why is this design the best in the space of possible designs?
-- What other designs have been considered and what is the rationale for not choosing them?
-- What is the impact of not doing this?
+- Por qué este diseño es el mejor en el espacio de los diseños posibles?
+- ¿Qué otros diseños se han considerado y cuál es la razón para no elegirlos?
+- ¿Cuál es el impacto de no hacer esto?
 
 # Prior art
 [prior-art]: #prior-art
 
-Discuss prior art, both the good and the bad, in relation to this proposal.
-A few examples of what this can include are:
+Discutir el estado del arte, tanto el bueno como el malo, en relación con esta propuesta.
+Algunos ejemplos de lo que puede incluir son:
 
-- For language, library, cargo, tools, and compiler proposals: Does this feature exist in other programming languages and what experience have their community had?
-- For community proposals: Is this done by some other community and what were their experiences with it?
-- For other teams: What lessons can we learn from what other communities have done here?
-- Papers: Are there any published papers or great posts that discuss this? If you have some relevant papers to refer to, this can serve as a more detailed theoretical background.
+- ara propuestas de lenguajes, bibliotecas,  herramientas y compiladores: ¿Existe esta característica en otros lenguajes de programación y qué experiencia ha tenido su comunidad?
+- Para las propuestas comunitarias: ¿Se ha hecho esto en alguna otra comunidad y cuáles fueron sus experiencias al respecto??
+- Para otros equipos: ¿Qué lecciones podemos aprender de lo que otras comunidades han hecho aquí??
+- Papers: ¿Existen artículos publicados o grandes entradas que discutan esto? Si tiene algunos documentos relevantes a los que referirse, esto puede servir como un fondo teórico más detallado.
 
 This section is intended to encourage you as an author to think about the lessons from other languages, provide readers of your RFC with a fuller picture.
 If there is no prior art, that is fine - your ideas are interesting to us whether they are brand new or if it is an adaptation from other languages.
