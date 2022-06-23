@@ -93,5 +93,3 @@ Tenga en cuenta que tener algo escrito en la sección de posibilidades futuras
 no es una razón para aceptar el RFC actual o uno futuro; tales notas deben estar
 en la sección de motivación o justificación de esta RFC o de las siguientes.
 La sección simplemente proporciona información adicional.
-
-Traducción realizada con la versión gratuita del traductor www.DeepL.com/Translator
