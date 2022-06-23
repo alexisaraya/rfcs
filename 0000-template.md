@@ -11,29 +11,29 @@ One paragraph explanation of the feature.
 # Motivation
 [motivation]: #motivation
 
-Why are we doing this? What use cases does it support? What is the expected outcome?
+¿Por qué lo hacemos? ¿Qué casos de uso soporta? ¿Cuál es el resultado esperado?
 
 # Guide-level explanation
 [guide-level-explanation]: #guide-level-explanation
 
-Explain the proposal as if it was already included in the language and you were teaching it to another Rust programmer. That generally means:
+Explica la propuesta como si ya estuviera incluida en el lenguaje y la estuvieras enseñando a otro programador de Rust. Eso generalmente significa:
 
-- Introducing new named concepts.
-- Explaining the feature largely in terms of examples.
-- Explaining how Rust programmers should *think* about the feature, and how it should impact the way they use Rust. It should explain the impact as concretely as possible.
-- If applicable, provide sample error messages, deprecation warnings, or migration guidance.
-- If applicable, describe the differences between teaching this to existing Rust programmers and new Rust programmers.
+- Introducción de nuevos conceptos con nombre.
+- Explicar la función en gran medida con ejemplos.
+- Debe explicar el impacto de la manera más concreta posible.
+- Si procede, proporcione ejemplos de mensajes de error, advertencias de desaprobación u orientaciones sobre la migración.
+- Si procede, describa las diferencias entre enseñar esto a los programadores  existentes y a los nuevos programadores.
 
-For implementation-oriented RFCs (e.g. for compiler internals), this section should focus on how compiler contributors should think about the change, and give examples of its concrete impact. For policy RFCs, this section should provide an example-driven introduction to the policy, and explain its impact in concrete terms.
+En el caso de las RFC orientadas a la implementación (por ejemplo, las internas del compilador), esta sección debería centrarse en cómo los colaboradores del compilador deberían pensar en el cambio, y dar ejemplos de su impacto concreto. En el caso de las RFC sobre políticas, esta sección debe ofrecer una introducción a la política basada en ejemplos y explicar su impacto en términos concretos.
 
 # Reference-level explanation
 [reference-level-explanation]: #reference-level-explanation
 
-This is the technical portion of the RFC. Explain the design in sufficient detail that:
+Esta es la parte técnica de la RFC. Explica el diseño con suficiente detalle que:
 
-- Its interaction with other features is clear.
-- It is reasonably clear how the feature would be implemented.
-- Corner cases are dissected by example.
+- Su interacción con otras características es clara.
+- Está razonablemente claro cómo se implementaría la función.
+- Los casos de esquina se diseccionan con un ejemplo.
 
 The section should return to the examples given in the previous section, and explain more fully how the detailed proposal makes those examples work.
 
