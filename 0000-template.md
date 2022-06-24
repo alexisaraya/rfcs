@@ -1,19 +1,19 @@
-- Feature Name: (fill me in with a unique ident, `my_awesome_feature`)
-- Start Date: (fill me in with today's date, YYYY-MM-DD)
+- Nombre de la Característica: (completar con un identificador único, `my_awesome_feature`)
+- Fecha de Inicio: (completar con la fecha de Hoy, YYYY-MM-DD)
 - RFC PR: [rust-lang/rfcs#0000](https://github.com/rust-lang/rfcs/pull/0000)
 - Issue: [rust-lang/rust#0000](https://github.com/rust-lang/rust/issues/0000)
 
-# Summary
-[summary]: #summary
+# Resumen
+[resumen]: #resumen
 
 Una explicación de un párrafo sobre la característica.
 
-# Motivation
-[motivation]: #motivation
+# Motivación
+[motivacion]: #motivacion
 
 ¿Por qué lo hacemos? ¿Qué casos de uso soporta? ¿Cuál es el resultado esperado?
 
-# Guide-level explanation
+# Guide-level explicación
 [guide-level-explanation]: #guide-level-explanation
 
 Explica la propuesta como si ya estuviera incluida en el lenguaje y la estuvieras enseñando a otro programador de Rust. Eso generalmente significa:
@@ -37,19 +37,19 @@ Esta es la parte técnica de la RFC. Explica el diseño con suficiente detalle q
 
 The section should return to the examples given in the previous section, and explain more fully how the detailed proposal makes those examples work.
 
-# Drawbacks
+# Inconvenientes
 [drawbacks]: #drawbacks
 
 ¿Por qué *no* deberíamos hacerlo?
 
-# Rationale and alternatives
+# Justificación y Alternativas
 [rationale-and-alternatives]: #rationale-and-alternatives
 
 - Por qué este diseño es el mejor en el espacio de los diseños posibles?
 - ¿Qué otros diseños se han considerado y cuál es la razón para no elegirlos?
 - ¿Cuál es el impacto de no hacer esto?
 
-# Prior art
+# Estado del Arte
 [prior-art]: #prior-art
 
 Discutir el estado del arte, tanto el bueno como el malo, en relación con esta propuesta.
@@ -60,20 +60,21 @@ Algunos ejemplos de lo que puede incluir son:
 - Para otros equipos: ¿Qué lecciones podemos aprender de lo que otras comunidades han hecho aquí??
 - Papers: ¿Existen artículos publicados o grandes entradas que discutan esto? Si tiene algunos documentos relevantes a los que referirse, esto puede servir como un fondo teórico más detallado.
 
-This section is intended to encourage you as an author to think about the lessons from other languages, provide readers of your RFC with a fuller picture.
-If there is no prior art, that is fine - your ideas are interesting to us whether they are brand new or if it is an adaptation from other languages.
+Esta sección pretende animarle a usted, como autor, a pensar en las lecciones de otros idiomas, para proporcionar a los lectores de su RFC una visión más completa.
+Si no existe un estado de la técnica, está bien - sus ideas son interesantes para nosotros tanto si son nuevas como si se trata de una adaptación de otros idiomas.
 
-Note that while precedent set by other languages is some motivation, it does not on its own motivate an RFC.
-Please also take into consideration that rust sometimes intentionally diverges from common language features.
+Tenga en cuenta que aunque el precedente establecido por otros lenguajes es una motivación, no motiva por sí solo una RFC.
+Por favor, tenga también en cuenta que el óxido a veces se aparta intencionadamente de las características comunes del lenguaje.
 
-# Unresolved questions
+
+# Preguntas sin resolver
 [unresolved-questions]: #unresolved-questions
 
 - What parts of the design do you expect to resolve through the RFC process before this gets merged?
 - What parts of the design do you expect to resolve through the implementation of this feature before stabilization?
 - What related issues do you consider out of scope for this RFC that could be addressed in the future independently of the solution that comes out of this RFC?
 
-# Future possibilities
+# Posivilidades Futuras
 [future-possibilities]: #future-possibilities
 
 Piense en cuál sería la extensión y evolución natural de su propuesta
