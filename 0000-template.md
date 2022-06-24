@@ -70,9 +70,9 @@ Por favor, tenga también en cuenta que el óxido a veces se aparta intencionada
 # Preguntas sin resolver
 [unresolved-questions]: #unresolved-questions
 
-- What parts of the design do you expect to resolve through the RFC process before this gets merged?
-- What parts of the design do you expect to resolve through the implementation of this feature before stabilization?
-- What related issues do you consider out of scope for this RFC that could be addressed in the future independently of the solution that comes out of this RFC?
+- ¿Qué partes del diseño espera resolver a través del proceso de RFC antes de que esto se fusione?
+- ¿Qué partes del diseño espera resolver a través de la implementación de esta característica antes de su estabilización?
+- ¿Qué cuestiones relacionadas considera que están fuera del alcance de esta RFC y que podrían abordarse en el futuro independientemente de la solución que surja de esta RFC?
 
 # Posivilidades Futuras
 [future-possibilities]: #future-possibilities
